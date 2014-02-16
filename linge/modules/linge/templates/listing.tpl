@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Leisure Magento Theme</title>
+<!--CSS-->
+<link rel="stylesheet" href="http://www.comparateur-lingerie.fr/css/styles.css">
+<!--Google Webfont -->
+<link href='http://fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'>
+<!--Javascript-->
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery-1.7.2.min.js" ></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.flexslider.js" ></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.easing.js"></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.jtweetsanywhere-1.3.1.min.js" ></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/simpletabs_1.3.js"></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/form_elements.js" ></script>
+<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/custom.js"></script>
+<script type="text/javascript" src="http://img.metaffiliation.com/na/na/res/trk/script.js" ></script>  
+
+
+<!--[if lt IE 9]>
+    <script src="js/html5.js"></script>
+<![endif]-->
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<div class="wrapper">
+    <div class="header_container">
+        <!--Header Starts-->
+        <header>
+            <div class="top_bar clear">
+                <!--Language Switcher Starts-->
+                <!--Top Links Ends-->
+            </div>
+            <!--Logo Starts-->
+            <h1 class="logo"> <a href="http://www.comparateur-lingerie.fr/"><img src="http://www.comparateur-lingerie.fr/images/logo2.jpg" /></a> </h1>
+            <!--Logo Ends-->
+            <!--Responsive NAV-->
+            <!--Responsive NAV-->
+            <!--Search Starts-->
+  	        <form class="header_search" action="{jurl 'linge~default:index'}" >
+                <div class="form-search">
+                    <input id="search" type="text" name="q" value="" class=""  placeholder="Search">
+                    <button type="submit" title="Search"></button>
+                </div>
+            </form>
+            <!--Search Ends-->
+        </header>
+        <!--Header Ends-->
+    </div>
+    <div class="navigation_container">
+        <!--Navigation Starts-->
+        <nav>
+            <ul class="primary_nav">
+                 {foreach $categoriesParent as $parent}
+ 						<li class="active"><a href="">{$parent->name_categorie}</a>
+                           <ul class="sub_menu">
+	                           <li> <a href="{jurl 'linge~default:index' , array('q' => $parent->name_categorie)  }">{$parent->name_categorie}</a>
+		                           <ul>
+		                           	 {foreach $categoriesChild as $child}
+		                           	 	{if $child->id_parent == $parent->id_categorie}
+		                                	<li><a href="{jurl 'linge~default:index' , array('q' => $child->name_categorie) }">{$child->name_categorie}</a></li>
+	                                	{/if}
+									{/foreach}                                
+		                           </ul>
+	                           </li>
+                           </ul>
+                        </li> 							
+                 {/foreach}	 
+            </ul>
+
+        </nav>
+        <!--Navigation Ends-->
+    </div>
+    <div class="section_container">
+        <!--Mid Section Starts-->
+        <section>
+            <!--SIDE NAV STARTS-->
+            <div id="side_nav">
+                <div class="sideNavCategories">                    
+
+                </div>
+            </div>
+            <!--SIDE NAV ENDS-->
+            <!--MAIN CONTENT STARTS-->
+            <div id="main_content">
+                <div class="category_banner"></div>
+                <ul class="breadcrumb">
+
+                </ul>
+                <!--Toolbar-->
+                <!--Toolbar-->
+                <!--Product List Starts-->
+                <div class="products_list_list">
+                    <ul>
+                   {foreach $produits as $h}
+                         {if  $h->longimage != null}
+                         <li>
+                             <div>
+                             <a class="product_image" href="{$h->url}"  ><img src="{$h->longimage}"  /></a>
+                                </div>
+                                <div class="product_info">
+                                    <h3><a href="{$h->url}">{$h->nom}</a></h3>
+                                    <small>{$h->long_description}</small> </div>
+                                <div class="price_info">
+                                    <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
+                                </div>
+                            </li>
+                        {elseif  $h->mediumimage != null}
+                             <li>
+                                 <div>
+                                 <a class="product_image"><img src="{$h->mediumimage}"   /></a>
+             					</div>
+                                <div class="product_info">
+                                    <h3><a href="{$h->url}">{$h->nom}</a></h3>
+                                    <small>{$h->long_description}</small> </div>
+                                <div class="price_info">
+                                    <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
+                                </div>
+                            </li>
+                        {elseif $h->petiteimage != null}
+                             <li> 
+                                 <div>
+                                 <a class="product_image"><img src="{$h->petiteimage}"   /></a>
+                        		</div>
+                                <div class="product_info">
+                                    <h3><a href="{$h->url}">{$h->nom}</a></h3>
+                                    <small>{$h->long_description}</small> </div>
+                                <div class="price_info">
+                                    <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
+                                </div>
+                            </li>                      
+                        {/if}
+                     {/foreach} 
+                    </ul>
+                </div>
+                <!--Product List Ends-->
+                <!--Toolbar-->
+                <!--Toolbar-->
+            </div>
+            <!--MAIN CONTENT ENDS-->
+            <!--Newsletter_subscribe Starts-->
+            <!--Newsletter_subscribe Ends-->
+        </section>
+        <!--Mid Section Ends-->
+    </div>
+    <div class="footer_container">
+        <!--Footer Starts-->
+        <footer>
+              <address>
+            Copyright © 2014 Grégory Ornythorink LANCESTREMERE. All Rights Reserved.
+            </address>
+        </footer>
+        <!--Footer Ends-->
+    </div>
+</div>
+</body>
+</html>

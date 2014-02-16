@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://jelix.org/ns/project/1.0">
+    <info id="linge@yourwebsite.undefined" name="linge" createdate="2014-02-08">
+        <version date="2014-02-08">0.1pre</version>
+        <label lang="en_US">linge</label>
+        <description lang="en_US"/>
+        <license URL="">All rights reserved</license>
+        <copyright>2011 your name</copyright>
+        <creator name="your name" email="your-email@yourwebsite.undefined" active="true"/>
+        <homepageURL>http://www.yourwebsite.undefined</homepageURL>
+    </info>
+    <dependencies>
+        <jelix minversion="1.5.3" maxversion="1.5.*"/>
+    </dependencies>
+    <entrypoints>
+        <!-- file: the path to the entry point relative to the base path
+            config: the path to the config file used by the entry point, relative
+                    to var/config/
+            type: type of the entry point : classic, cmdline, xmlrpc....-->
+        <entry file="index.php" config="index/config.ini.php"/>
+    <entry file="cmdline.php" config="cmdline/cmdline.ini.php" type="cmdline"/></entrypoints>
+</project>
