@@ -93,14 +93,17 @@ class defaultCtrl extends jController {
         $content = curl_exec ($ch) ;
         curl_close ($ch) ;
 		
-		
-        $rand  = rand(1,10000);
-        $ok = jFile::write('/home/ornythorink/linge/linge/var/upload/img'. $rand . '.' . strtolower($extensions[$infos_image[2]]) , $content);
+        $config = jApp::configPath('defaultconfig.ini.php');
+        $ini = new jIniFileModifier ($config);
+        $cache = $ini->getValue('imagecache','0');
+        
+        $rand  = rand(1,100000);
+        $ok = jFile::write( $cache . '/var/upload/img'. $rand . '.' . strtolower($extensions[$infos_image[2]]) , $content);
          
         $params = array('maxwidth'=>190, 'maxheight'=>242,'background'=>'#ffffff','zoom'=>100);
         $att = jImageModifier::get('../var/upload/img'. $rand . '.jpg', $params);
 		
-		
+		var_dump($att['src']);
         return  $att['src'];
     }
 }
