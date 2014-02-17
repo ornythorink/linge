@@ -102,8 +102,7 @@ class defaultCtrl extends jController {
          
         $params = array('maxwidth'=>190, 'maxheight'=>242,'background'=>'#ffffff','zoom'=>100);
         $att = jImageModifier::get('../var/upload/img'. $rand . '.jpg', $params);
-		
-		var_dump($att['src']);
+
         return  $att['src'];
     }
 }
