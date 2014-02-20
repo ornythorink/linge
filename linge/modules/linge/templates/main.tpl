@@ -133,9 +133,9 @@
                                 </div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
-                                    <small>{$h->short_description}</small> </div>
+                                    <small></small> </div>
                                 <div class="price_info">
-                                    <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€ {$h->qte}</span><span class="pr_add">Voir le site</span></button>
+                                    <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
                                 </div>
                             </li>
                         {elseif  $h->mediumimage != null}
@@ -145,7 +145,7 @@
              					</div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
-                                    <small>{$h->short_description}</small> </div>
+                                    <small></small> </div>
                                 <div class="price_info">
                                     <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
                                 </div>
@@ -157,7 +157,7 @@
                         		</div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
-                                    <small>{$h->short_description}</small> </div>
+                                    <small></small> </div>
                                 <div class="price_info">
                                     <button class="price_add" title="" type="button"><span class="pr_price">{$h->prix}€</span><span class="pr_add">Voir le site</span></button>
                                 </div>

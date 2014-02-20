@@ -34,9 +34,9 @@ class defaultCtrl extends jController {
 		$tpl->assign('categoriesChild', $categoriesChild);	
 
 		if( $this->param('q') === NULL ){
-	    
-	        $sql = " SELECT * FROM produits  WHERE status = 'Ok'  ORDER BY RAND()   LIMIT 0,6" ;
-	        $hoffres = $cnx->query($sql)->fetchAll();
+	        
+	        $client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/produits/home/');
+	        $hoffres = json_decode($client->getResponse());
 	
 	        foreach($hoffres as $image){
 	            if($image->longimage !== null){
@@ -46,30 +46,6 @@ class defaultCtrl extends jController {
 	            } elseif ($image->petiteimage !== null) {
 	                $image->petiteimage = $this->resizeImage($image->petiteimage);
 	            }
-	            // Création d'une nouvelle ressource cURL
-	            /*$ch = curl_init();
-	            
-	            // On récupère la réponse HTTP dans une chaîne
-	            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-	            
-	            // La cible
-	            curl_setopt($ch, CURLOPT_URL, $image->url);
-	            
-	            // On récupère les en-têtes dans la réponse (là où y'a le "Location")
-	            curl_setopt($ch, CURLOPT_HEADER, 1);
-	            
-	            // Récupération de l'URL et affichage sur le naviguateur
-	            $res = curl_exec($ch);
-	            
-	            // Dans cette réponse, il y a les en-têtes HTTP ;
-	            // ON extrait le champ "Location".
-	            preg_match('/Location: (.+?)\r?\n/i', $res, $matches);
-	            
-	            echo $matches[1]; // Affiche la "Location"
-	            
-	            
-	            // Fermeture de la session cURL
-	            curl_close($ch);*/				
 				
 				
 	        }  
