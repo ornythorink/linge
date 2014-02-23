@@ -41,7 +41,7 @@ class defaultCtrl extends jController {
 						
 		if( $this->param('q') === NULL ){
 	        
-	        $client = RestClient::get('http://localhost/vroum/www/index.php/vroum/produits/home/');
+	        $client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/produits/home/');
 	        $hoffres = json_decode($client->getResponse());
 
 	        foreach($hoffres as $image){
