@@ -40242,3 +40242,563 @@ array ( )
 	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
 
 
+2014-02-23 22:42:09	127.0.0.1	warning	2014-02-23 22:42:09	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	47
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 47
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:43:44	127.0.0.1	warning	2014-02-23 22:43:44	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	47
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 47
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:43:44	127.0.0.1	warning	2014-02-23 22:43:44	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	53
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:43:44	127.0.0.1	warning	2014-02-23 22:43:44	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 65
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:25	127.0.0.1	warning	2014-02-23 22:44:25	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	47
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 47
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:25	127.0.0.1	warning	2014-02-23 22:44:25	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	53
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:25	127.0.0.1	warning	2014-02-23 22:44:25	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 65
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:48	127.0.0.1	warning	2014-02-23 22:44:48	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	47
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 47
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:48	127.0.0.1	warning	2014-02-23 22:44:48	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	53
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:44:48	127.0.0.1	warning	2014-02-23 22:44:48	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 65
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:49:18	127.0.0.1	warning	2014-02-23 22:49:18	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	49
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 49
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:49:18	127.0.0.1	warning	2014-02-23 22:49:18	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	55
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:49:18	127.0.0.1	warning	2014-02-23 22:49:18	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:50:18	127.0.0.1	warning	2014-02-23 22:50:18	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	49
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 49
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:50:18	127.0.0.1	warning	2014-02-23 22:50:18	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	55
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:50:18	127.0.0.1	warning	2014-02-23 22:50:18	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:51:54	127.0.0.1	warning	2014-02-23 22:51:54	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	49
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 49
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:51:54	127.0.0.1	warning	2014-02-23 22:51:54	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	55
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:51:54	127.0.0.1	warning	2014-02-23 22:51:54	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:52:38	127.0.0.1	warning	2014-02-23 22:52:38	127.0.0.1	[2]	substr() expects at least 2 parameters, 1 given	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	49
+	/linge/linge/www/
+array ( )
+
+	0	substr()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 49
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:52:38	127.0.0.1	warning	2014-02-23 22:52:38	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	56
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:52:38	127.0.0.1	warning	2014-02-23 22:52:38	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	136
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 68
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:52:38	127.0.0.1	warning	2014-02-23 22:52:38	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:52)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	157
+	/linge/linge/www/
+array ( )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 157
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 22:52:38	127.0.0.1	warning	2014-02-23 22:52:38	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:52)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	165
+	/linge/linge/www/
+array ( )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 165
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:13:06	127.0.0.1	notice	2014-02-23 23:13:06	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:14:28	127.0.0.1	notice	2014-02-23 23:14:28	127.0.0.1	[8]	Undefined variable: url	/home/ornythorink/htdocs/linge/linge/plugins/tpl/common/function.retaille.php	6
+	/linge/linge/www/
+array ( )
+
+	0	jtpl_function_common_retaille()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php : 141
+	1	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	2	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 67
+	3	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	4	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:50:42	127.0.0.1	warning	2014-02-23 23:50:42	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:50:42	127.0.0.1	warning	2014-02-23 23:50:42	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:52:33	127.0.0.1	warning	2014-02-23 23:52:33	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:52:33	127.0.0.1	warning	2014-02-23 23:52:33	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:58:51	127.0.0.1	warning	2014-02-23 23:58:51	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:58:51	127.0.0.1	warning	2014-02-23 23:58:51	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:00	127.0.0.1	warning	2014-02-23 23:59:00	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:00	127.0.0.1	warning	2014-02-23 23:59:00	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:12	127.0.0.1	warning	2014-02-23 23:59:12	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:12	127.0.0.1	warning	2014-02-23 23:59:12	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges
+array (   'q' => 'Soutien-Gorges',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:16	127.0.0.1	warning	2014-02-23 23:59:16	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-23 23:59:16	127.0.0.1	warning	2014-02-23 23:59:16	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:00:59	127.0.0.1	warning	2014-02-24 00:00:59	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:00:59	127.0.0.1	warning	2014-02-24 00:00:59	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:02:45	127.0.0.1	warning	2014-02-24 00:02:45	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:02:45	127.0.0.1	warning	2014-02-24 00:02:45	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:02:55	127.0.0.1	warning	2014-02-24 00:02:55	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Culotte
+array (   'q' => 'Culotte',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:02:55	127.0.0.1	warning	2014-02-24 00:02:55	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Culotte
+array (   'q' => 'Culotte',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 83
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:06:19	127.0.0.1	warning	2014-02-24 00:06:19	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	72
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:06:19	127.0.0.1	warning	2014-02-24 00:06:19	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 86
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:07:08	127.0.0.1	warning	2014-02-24 00:07:08	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:82)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	157
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 157
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:07:08	127.0.0.1	warning	2014-02-24 00:07:08	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:82)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	165
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 165
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 00:08:50	127.0.0.1	warning	2014-02-24 00:08:50	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	108
+	/linge/linge/www/index.php/linge/?q=Soutien-Gorges+
+array (   'q' => 'Soutien-Gorges ',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 91
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+

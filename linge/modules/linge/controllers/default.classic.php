@@ -68,7 +68,14 @@ class defaultCtrl extends jController {
 		} else {
 			$params = array('term' => $this->param('q') );
 			$client = RestClient::get($wsurl . 'index.php/vroum/produits/', $params);
-			$produits = json_decode($client->getResponse());
+			
+			$tail = "";
+			if($rest = substr($client->getResponse(), -1) != "]" ) {
+				$tail = "]";
+			}			
+			
+			$produits = json_decode($client->getResponse().$tail);
+			
 	        foreach($produits as $image){
 	            if($image->longimage !== null){
 	                $image->longimage = $this->resizeImage($image->longimage);                
@@ -77,7 +84,8 @@ class defaultCtrl extends jController {
 	            } elseif ($image->petiteimage !== null) {
 	                $image->petiteimage = $this->resizeImage($image->petiteimage);
 	            }
-	        }  			
+	        }  	
+
 	        $tpl->assign( 'produits' , $produits  );
 
 			$rep->body->assign('MAIN', $tpl->fetch("linge~listing")); 						

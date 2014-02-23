@@ -126,7 +126,7 @@
                          {if  $h->longimage != null}
                          <li>
                              <div>
-                             <a class="product_image" href="{$h->url}"  ><img src="{$h->longimage}"  /></a>
+                             <a class="product_image" href="{$h->url}"  ><img src="{retaille $h->longimage}"  /></a>
                                 </div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
@@ -138,7 +138,7 @@
                         {elseif  $h->mediumimage != null}
                              <li>
                                  <div>
-                                 <a class="product_image"><img src="{$h->mediumimage}"   /></a>
+                                 <a class="product_image"><img src="{retaille $h->mediumimage}"   /></a>
              					</div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
@@ -150,7 +150,7 @@
                         {elseif $h->petiteimage != null}
                              <li> 
                                  <div>
-                                 <a class="product_image"><img src="{$h->petiteimage}"   /></a>
+                                 <a class="product_image"><img src="{retaille $h->petiteimage}"   /></a>
                         		</div>
                                 <div class="product_info">
                                     <h3><a href="{$h->url}">{$h->nom}</a></h3>
