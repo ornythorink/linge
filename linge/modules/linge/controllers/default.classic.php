@@ -37,15 +37,20 @@ class defaultCtrl extends jController {
 		$monfichier = jApp::configPath('defaultconfig.ini.php');
 		$ini = new jIniFileModifier ($monfichier);
 		$domaine = $ini->getValue('domaine');
+	    $wsurl 	 = $ini->getValue('wsurl');
+		
 		$tpl->assign( 'domaine' ,  $domaine );
 						
 		if( $this->param('q') === NULL ){
 	        
-	        $client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/produits/home/');
-	        
-	        
-	        
-	        $hoffres = json_decode($client->getResponse().']');
+	        $client = RestClient::get($wsurl . 'index.php/vroum/produits/home/');
+
+	        $tail = "";
+	        if($rest = substr($client->getResponse(), -1) != "]" ) {
+	        	$tail = "]";
+	        }
+
+	        $hoffres = json_decode($client->getResponse().$tail);
 
 	        foreach($hoffres as $image){
 	            if($image->longimage !== null){
@@ -62,7 +67,7 @@ class defaultCtrl extends jController {
 			$rep->body->assign('MAIN', $tpl->fetch("linge~main")); 	
 		} else {
 			$params = array('term' => $this->param('q') );
-			$client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/produits/', $params);
+			$client = RestClient::get($wsurl . 'index.php/vroum/produits/', $params);
 			$produits = json_decode($client->getResponse());
 	        foreach($produits as $image){
 	            if($image->longimage !== null){
