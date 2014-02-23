@@ -9,7 +9,7 @@ locale=fr_FR
 availableLocales=fr_FR
 charset=UTF-8
 imagecache=/home/ornythorink/htdocs/linge/linge
-
+domaine=http://localhost/linge/linge/www/
 
 ; see http://www.php.net/manual/en/timezones.php for supported values
 timeZone="Europe/Paris"

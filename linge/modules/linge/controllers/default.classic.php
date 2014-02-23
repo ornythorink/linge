@@ -13,6 +13,7 @@ class defaultCtrl extends jController {
     *
     */
     function index() {
+    	
         $rep = $this->getResponse('html');
         
         $rep->bodyTpl = 'linge~layout' ;
@@ -31,13 +32,18 @@ class defaultCtrl extends jController {
 		$categoriesChild = json_decode($client->getResponse());
 		
 		$tpl->assign('categoriesParent', $categoriesParent);		
-		$tpl->assign('categoriesChild', $categoriesChild);	
-
+		$tpl->assign('categoriesChild', $categoriesChild);
+			
+		$monfichier = jApp::configPath('defaultconfig.ini.php');
+		$ini = new jIniFileModifier ($monfichier);
+		$domaine = $ini->getValue('domaine');
+		$tpl->assign( 'domaine' ,  $domaine );
+						
 		if( $this->param('q') === NULL ){
 	        
-	        $client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/produits/home/');
+	        $client = RestClient::get('http://localhost/vroum/www/index.php/vroum/produits/home/');
 	        $hoffres = json_decode($client->getResponse());
-	
+
 	        foreach($hoffres as $image){
 	            if($image->longimage !== null){
 	                $image->longimage = $this->resizeImage($image->longimage);                
@@ -64,7 +70,8 @@ class defaultCtrl extends jController {
 	                $image->petiteimage = $this->resizeImage($image->petiteimage);
 	            }
 	        }  			
-	        $tpl->assign( 'produits' , $produits  );			
+	        $tpl->assign( 'produits' , $produits  );
+
 			$rep->body->assign('MAIN', $tpl->fetch("linge~listing")); 						
 		}		
 

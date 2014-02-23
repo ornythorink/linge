@@ -4,18 +4,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Leisure Magento Theme</title>
 <!--CSS-->
-<link rel="stylesheet" href="http://www.comparateur-lingerie.fr/css/styles.css">
+<link rel="stylesheet" href="{$domaine}/css/styles.css">
 <!--Google Webfont -->
 <link href='http://fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'>
 <!--Javascript-->
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery-1.7.2.min.js" ></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.flexslider.js" ></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.easing.js"></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.jcarousel.js"></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/jquery.jtweetsanywhere-1.3.1.min.js" ></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/simpletabs_1.3.js"></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/form_elements.js" ></script>
-<script type="text/javascript" src="http://www.comparateur-lingerie.fr/js/custom.js"></script>
+<script type="text/javascript" src="{$domaine}/js/jquery-1.7.2.min.js" ></script>
+<script type="text/javascript" src="{$domaine}/js/jquery.flexslider.js" ></script>
+<script type="text/javascript" src="{$domaine}/js/jquery.easing.js"></script>
+<script type="text/javascript" src="{$domaine}/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="{$domaine}/js/jquery.jtweetsanywhere-1.3.1.min.js" ></script>
+<script type="text/javascript" src="{$domaine}/js/simpletabs_1.3.js"></script>
+<script type="text/javascript" src="{$domaine}/js/form_elements.js" ></script>
+<script type="text/javascript" src="{$domaine}/js/custom.js"></script>
 <script type="text/javascript" src="http://img.metaffiliation.com/na/na/res/trk/script.js" ></script>    
 <!--[if lt IE 9]>
     <script src="js/html5.js"></script>
@@ -25,9 +25,6 @@
 </head>
 <body>
 	
- 
-            </script>	
-	
 <div class="wrapper">
     <div class="header_container">
         <!--Header Starts-->
@@ -36,7 +33,7 @@
                    <!--Top Links Ends-->
             </div>
             <!--Logo Starts-->
-            <h1 class="logo"> <a href="http://www.comparateur-lingerie.fr" /><img src="http://www.comparateur-lingerie.fr/images/logo2.jpg" /></a> </h1>
+            <h1 class="logo"> <a href="{$domaine}" /><img src="{$domaine}/images/logo2.jpg" /></a> </h1>
             <!--Logo Ends-->
             <!--Responsive NAV-->            
             <!--Responsive NAV-->
@@ -123,7 +120,7 @@
  
             
             <div class="products_list products_slider">
-                <h2 class="sub_title">New Products</h2>
+                <h2 class="sub_title">DERNIERS ARRIVAGES</h2>
                 <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
                     {foreach $hoffres as $h}
                          {if  $h->longimage != null}
