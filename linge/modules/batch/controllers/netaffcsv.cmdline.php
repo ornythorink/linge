@@ -160,7 +160,9 @@ class netaffcsvCtrl extends jControllerCmdLine {
 			qte,
 			petiteimage,
 			mediumimage,
-			longimage
+			longimage,
+			boutique,
+	    	source
 		)		
 		VALUES (
 		"{$line[1]}",
@@ -180,8 +182,11 @@ class netaffcsvCtrl extends jControllerCmdLine {
 		"{$line[20]}",
 		"{$line[26]}",
 		"{$line[27]}",
-		"{$line[28]}"
-		);
+		"{$line[28]}",
+		"{$r->rewrite}",
+		'NET'		
+		) 
+
 EOD;
  
         $cnx->exec($query);

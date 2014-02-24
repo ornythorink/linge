@@ -2,3 +2,6 @@ temp/*
 lib/*
 linge/www/cache/*
 linge/application.init.php
+linge/var/upload/*
+linge/var/log/errors.log
+linge/var/log/messages.log

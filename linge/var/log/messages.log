@@ -232,3 +232,63 @@
 2014-02-23 21:48:57	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
 2014-02-23 21:49:06	127.0.0.1	default	DEBUG step 6 - IMPORT csv variance
 2014-02-23 21:49:06	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-24 20:42:40	127.0.0.1	default	start to process
+2014-02-24 20:42:41	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:42:41	127.0.0.1	default	DEBUG step 4 - create tree baci
+2014-02-24 20:42:43	127.0.0.1	default	DEBUG step 5 - get CSV baci
+2014-02-24 20:42:43	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/baci/baci.csv
+2014-02-24 20:43:33	127.0.0.1	default	DEBUG step 6 - IMPORT csv baci
+2014-02-24 20:43:33	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-24 20:52:28	127.0.0.1	default	start to process
+2014-02-24 20:52:28	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:52:28	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:52:29	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:52:29	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:53:20	127.0.0.1	default	start to process
+2014-02-24 20:53:20	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:53:20	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:53:21	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:53:21	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:54:11	127.0.0.1	default	start to process
+2014-02-24 20:54:11	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:54:11	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:54:12	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:54:12	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:54:27	127.0.0.1	default	start to process
+2014-02-24 20:54:27	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:54:27	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:54:28	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:54:28	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:54:34	127.0.0.1	default	start to process
+2014-02-24 20:54:34	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:54:34	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:54:35	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:54:35	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:55:25	127.0.0.1	default	start to process
+2014-02-24 20:55:25	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:55:25	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 20:55:26	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 20:55:26	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 20:55:34	127.0.0.1	default	DEBUG step 6 - IMPORT csv variance
+2014-02-24 20:55:34	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-24 20:55:36	127.0.0.1	default	start to process
+2014-02-24 20:55:37	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 20:55:37	127.0.0.1	default	DEBUG step 4 - create tree baci
+2014-02-24 20:55:39	127.0.0.1	default	DEBUG step 5 - get CSV baci
+2014-02-24 20:55:39	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/baci/baci.csv
+2014-02-24 20:56:34	127.0.0.1	default	DEBUG step 6 - IMPORT csv baci
+2014-02-24 20:56:34	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-24 21:07:34	127.0.0.1	default	start to process
+2014-02-24 21:07:35	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 21:07:35	127.0.0.1	default	DEBUG step 4 - create tree variance
+2014-02-24 21:07:35	127.0.0.1	default	DEBUG step 5 - get CSV variance
+2014-02-24 21:07:36	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/variance/variance.csv
+2014-02-24 21:07:43	127.0.0.1	default	DEBUG step 6 - IMPORT csv variance
+2014-02-24 21:07:44	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-24 21:07:45	127.0.0.1	default	start to process
+2014-02-24 21:07:46	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-24 21:07:46	127.0.0.1	default	DEBUG step 4 - create tree baci
+2014-02-24 21:07:48	127.0.0.1	default	DEBUG step 5 - get CSV baci
+2014-02-24 21:07:48	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/netaff/baci/baci.csv
+2014-02-24 21:08:40	127.0.0.1	default	DEBUG step 6 - IMPORT csv baci
+2014-02-24 21:08:40	127.0.0.1	default	DEBUG step 11 - reset config

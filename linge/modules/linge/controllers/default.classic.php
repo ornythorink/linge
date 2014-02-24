@@ -53,15 +53,20 @@ class defaultCtrl extends jController {
 	        $hoffres = json_decode($client->getResponse().$tail);
 
 	        foreach($hoffres as $image){
+	        	
+	        	if($image->cacheimage != '' && $image->cacheimage != null){
+	        		$image->longimage   = $image->cacheimage;
+	        		$image->mediumimage = $image->cacheimage;
+	        		$image->petiteimage = $image->cacheimage;
+	        	}
+	        	
 	            if($image->longimage !== null){
 	                $image->longimage = $this->resizeImage($image->longimage);                
 	            } elseif ($image->mediumimage !== null) {
 	                $image->mediumimage = $this->resizeImage($image->mediumimage);
 	            } elseif ($image->petiteimage !== null) {
 	                $image->petiteimage = $this->resizeImage($image->petiteimage);
-	            }
-				
-				
+	            }				
 	        }  
 	        $tpl->assign( 'hoffres', $hoffres  );
 			$rep->body->assign('MAIN', $tpl->fetch("linge~main")); 	
@@ -77,6 +82,12 @@ class defaultCtrl extends jController {
 			$produits = json_decode($client->getResponse().$tail);
 			
 	        foreach($produits as $image){
+	        	if($image->imagecache != '' && $image->imagecache != null){
+	        		$image->longimage   = $image->imagecache;
+	        		$image->mediumimage = $image->imagecache;
+	        		$image->petiteimage = $image->imagecache;
+	        	}
+	        	
 	            if($image->longimage !== null){
 	                $image->longimage = $this->resizeImage($image->longimage);                
 	            } elseif ($image->mediumimage !== null) {
@@ -100,8 +111,6 @@ class defaultCtrl extends jController {
 		if($url == ""){
 			return null;
 		}
-			
-		
 		$extensions = array(
 		 1 => 'GIF', 2 => 'JPG',3 => 'PNG', 4 => 'SWF', 5 => 'PSD',
             6 => 'BMP', 7 => 'TIFF', 8 => 'TIFF', 9 => 'JPC', 10 => 'JP2', 11 => 'JPX',
@@ -125,6 +134,21 @@ class defaultCtrl extends jController {
         $params = array('maxwidth'=>190, 'maxheight'=>242,'background'=>'#ffffff','zoom'=>100);
         $att = jImageModifier::get('../var/upload/img'. $rand . '.jpg', $params);
 
+        // instanciation de la factory
+        $maFactory = jDao::get("linge~produits");
+        
+		$conditions = jDao::createConditions();
+		$conditions->startGroup('OR');
+			$conditions->addCondition('petiteimage','=',$url);
+			$conditions->addCondition('mediumimage','=',$url);
+			$conditions->addCondition('longimage','=',$url);	        
+		$conditions->endGroup();
+         
+        $liste = $maFactory->findBy($conditions)->fetch();    
+        if($liste != null && $liste != false){   
+	        $liste->imagecache = $att['src'];
+	        $maFactory->update($liste);
+        }
         return  $att['src'];
     }
 }
