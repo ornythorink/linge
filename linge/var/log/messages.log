@@ -302,3 +302,24 @@
 2014-02-25 00:37:04	127.0.0.1	default	start to process
 2014-02-25 00:40:49	127.0.0.1	default	start to process
 2014-02-25 00:46:09	127.0.0.1	default	start to process
+2014-02-25 20:44:37	127.0.0.1	default	start to process
+2014-02-25 20:44:38	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-25 20:44:39	127.0.0.1	default	DEBUG step 4 - create tree shaushka
+2014-02-25 20:44:42	127.0.0.1	default	DEBUG step 5 - get CSV shaushka
+2014-02-25 20:44:42	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/effil/shaushka/shaushka.csv
+2014-02-25 20:45:43	127.0.0.1	default	DEBUG step 6 - IMPORT csv shaushka
+2014-02-25 20:45:43	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-25 21:01:46	127.0.0.1	default	start to process
+2014-02-25 21:01:47	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-25 21:01:47	127.0.0.1	default	DEBUG step 4 - create tree vslingerie
+2014-02-25 21:01:48	127.0.0.1	default	DEBUG step 5 - get CSV vslingerie
+2014-02-25 21:01:48	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/effil/vslingerie/vslingerie.csv
+2014-02-25 21:02:42	127.0.0.1	default	DEBUG step 6 - IMPORT csv vslingerie
+2014-02-25 21:02:42	127.0.0.1	default	DEBUG step 11 - reset config
+2014-02-25 21:06:46	127.0.0.1	default	start to process
+2014-02-25 21:06:47	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-02-25 21:06:47	127.0.0.1	default	DEBUG step 4 - create tree shaushka
+2014-02-25 21:06:50	127.0.0.1	default	DEBUG step 5 - get CSV shaushka
+2014-02-25 21:06:50	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/effil/shaushka/shaushka.csv
+2014-02-25 21:08:22	127.0.0.1	default	DEBUG step 6 - IMPORT csv shaushka
+2014-02-25 21:08:22	127.0.0.1	default	DEBUG step 11 - reset config
