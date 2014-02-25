@@ -45413,3 +45413,35 @@ array (   'q' => 'soutien gorge',   'module' => 'linge',   'action' => 'default:
 	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
 
 
+2014-02-24 22:58:19	127.0.0.1	warning	2014-02-24 22:58:19	127.0.0.1	[2]	getimagesize(90% Polyester, 10% Elasthanne): failed to open stream: No such file or directory	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	119
+	/linge/linge/www/index.php/linge/?q=soutien%20gorge
+array (   'q' => 'soutien gorge',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 119
+	1	defaultCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 92
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-24 22:58:19	127.0.0.1	notice	2014-02-24 22:58:19	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	132
+	/linge/linge/www/index.php/linge/?q=soutien%20gorge
+array (   'q' => 'soutien gorge',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	defaultCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 92
+	1	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-02-25 00:45:04	127.0.0.1	error	2014-02-25 00:45:04	127.0.0.1	[23000]	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'qte' cannot be null	/home/ornythorink/htdocs/linge/lib/jelix/db/jDbPDOConnection.class.php	128
+	cmdline.php
+array (   'module' => 'batch',   'action' => 'zanoxcsv:run', )
+
+	0	PDO->query()	/home/ornythorink/htdocs/linge/lib/jelix/db/jDbPDOConnection.class.php : 128
+	1	jDbPDOConnection->query()	/home/ornythorink/htdocs/linge/lib/jelix/db/jDbPDOConnectionDebug.class.php : 24
+	2	jDbPDOConnectionDebug->query()	/home/ornythorink/htdocs/linge/linge/modules/batch/controllers/zanoxcsv.cmdline.php : 164
+	3	zanoxcsvCtrl->importCSV()	/home/ornythorink/htdocs/linge/linge/modules/batch/controllers/zanoxcsv.cmdline.php : 22
+	4	zanoxcsvCtrl->run()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	5	jCoordinator->process()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCmdlineCoordinator.class.php : 42
+	6	jCmdlineCoordinator->process()	/home/ornythorink/htdocs/linge/linge/scripts/cmdline.php : 20
+
+

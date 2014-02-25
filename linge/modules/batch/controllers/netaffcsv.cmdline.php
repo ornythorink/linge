@@ -8,8 +8,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
     public function run(){
          $rep = $this->getResponse(); 
          
-         jLog::log('start to process' ,'default');
-  
+         jLog::log('start to process' ,'default');  
   
   		 $this->nettoieProduits();      
          
