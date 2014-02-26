@@ -9,12 +9,12 @@ locale=fr_FR
 availableLocales=fr_FR
 charset=UTF-8
 
-imagecache=/home/ornythorink/htdocs/linge/linge
-domaine=http://localhost/linge/linge/www/
-wsurl=http://localhost/vroum/www/
-;imagecache=/home/ornythorink/linge/linge/linge
-;domaine=http://www.comparateur-lingerie.fr
-;wsurl=http://ornythorink.alwaysdata.net/
+;imagecache=/home/ornythorink/htdocs/linge/linge
+;domaine=http://localhost/linge/linge/www/
+;wsurl=http://localhost/vroum/www/
+imagecache=/home/ornythorink/linge/linge/linge
+domaine=http://www.comparateur-lingerie.fr
+wsurl=http://ornythorink.alwaysdata.net/
 
 
 
