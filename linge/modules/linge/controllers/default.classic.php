@@ -20,31 +20,30 @@ class defaultCtrl extends jController {
         
         $tpl = new jTpl();  
        
-        $cnx = jDb::getConnection();
+		$monfichier = jApp::configPath('defaultconfig.ini.php');
+		$ini = new jIniFileModifier ($monfichier);
+		$domaine = $ini->getValue('domaine');
+	    $wsurl 	 = $ini->getValue('wsurl');
 		
 		jClasses::inc('linge~restclient');
 		$params = array('type' => 'parent');
-		$client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/category/', $params);
+		$client = RestClient::get($wsurl . '/index.php/vroum/category/', $params);
 		$categoriesParent = json_decode($client->getResponse());
 		
 		$params = array('type' => 'child');
-		$client = RestClient::get('http://ornythorink.alwaysdata.net/index.php/vroum/category/', $params);
+		$client = RestClient::get($wsurl . 'index.php/vroum/category/', $params);
 		$categoriesChild = json_decode($client->getResponse());
 		
 		$tpl->assign('categoriesParent', $categoriesParent);		
 		$tpl->assign('categoriesChild', $categoriesChild);
 			
-		$monfichier = jApp::configPath('defaultconfig.ini.php');
-		$ini = new jIniFileModifier ($monfichier);
-		$domaine = $ini->getValue('domaine');
-	    $wsurl 	 = $ini->getValue('wsurl');
+
 		
 		$tpl->assign( 'domaine' ,  $domaine );
 						
 		if( $this->param('q') === NULL ){
 	        
 	        $client = RestClient::get($wsurl . 'index.php/vroum/produits/home/');
-
 	        $tail = "";
 	        if($rest = substr($client->getResponse(), -1) != "]" ) {
 	        	$tail = "]";
@@ -54,10 +53,10 @@ class defaultCtrl extends jController {
 
 	        foreach($hoffres as $image){
 	        	
-	        	if($image->cacheimage != '' && $image->cacheimage != null){
-	        		$image->longimage   = $image->cacheimage;
-	        		$image->mediumimage = $image->cacheimage;
-	        		$image->petiteimage = $image->cacheimage;
+	        	if($image->imagecache != '' && $image->imagecache != null){
+	        		$image->longimage   = $image->imagecache;
+	        		$image->mediumimage = $image->imagecache;
+	        		$image->petiteimage = $image->imagecache;
 	        	}
 	        	
 	            if($image->longimage !== null){
@@ -128,7 +127,7 @@ class defaultCtrl extends jController {
         $ini = new jIniFileModifier ($config);
         $cache = $ini->getValue('imagecache','0');
         
-        $rand  = rand(1,100000);
+        $rand  = rand(1,10000000);
         $ok = jFile::write( $cache . '/var/upload/img'. $rand . '.' . strtolower($extensions[$infos_image[2]]) , $content);
          
         $params = array('maxwidth'=>190, 'maxheight'=>242,'background'=>'#ffffff','zoom'=>100);

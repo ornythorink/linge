@@ -55,11 +55,11 @@
                  {foreach $categoriesParent as $parent}
  						<li class="active"><a href="">{$parent->name_categorie}</a>
                            <ul class="sub_menu">
-	                           <li> <a href="{jurl 'linge~default:index' , array('q' => $parent->name_categorie)  }">{$parent->name_categorie}</a>
+	                           <li> <a href="{jurl 'linge~default:index' , array('q' => $parent->name_categorie , 'tag' => $parent->tag)  }">{$parent->name_categorie}</a>
 		                           <ul>
 		                           	 {foreach $categoriesChild as $child}
 		                           	 	{if $child->id_parent == $parent->id_categorie}
-		                                	<li><a href="{jurl 'linge~default:index' , array('q' => $child->name_categorie) }">{$child->name_categorie}</a></li>
+		                                	<li><a href="{jurl 'linge~default:index' , array('q' => $child->name_categorie, 'tag' => $child->tag) }">{$child->name_categorie}</a></li>
 	                                	{/if}
 									{/foreach}                                
 		                           </ul>
