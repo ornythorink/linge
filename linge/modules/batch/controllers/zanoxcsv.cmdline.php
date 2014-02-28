@@ -3,7 +3,8 @@
 class zanoxcsvCtrl extends jControllerCmdLine {
     
     
-    public $paths =  "/home/ornythorink/linge/linge/var/uploads/zanox/" ;
+    public $paths =  "/home/ornythorink/htdocs/linge/var/uploads/zanox/" ;
+
     
     public function run(){
          $rep = $this->getResponse(); 
@@ -83,8 +84,8 @@ class zanoxcsvCtrl extends jControllerCmdLine {
 
     public function importCSV(){          
         $rep = $this->getResponse(); 
-        
-          $cnx = jDb::getConnection();
+        jLog::log('import csv' ,'default');
+         $cnx = jDb::getConnection();
         $rs = $cnx->query( "SELECT * FROM csv_config 
             WHERE  url <> '' 
             AND source = 'zanox' 
@@ -161,8 +162,15 @@ class zanoxcsvCtrl extends jControllerCmdLine {
 		)
         
 EOD;
-        var_dump($query);
-        $cnx->query($query);
+        	
+        	try{
+        		$cnx->query($query);
+        	}catch( PDOException $Exception ) {
+        		jLog::log( $Exception->getMessage( ) ,'default');
+        	}
+        		
+        	
+
         }
         $i++;
         }
@@ -170,7 +178,8 @@ EOD;
         $flag_query = "UPDATE csv_config SET flagbash = 'Y' WHERE rewrite = '" . $r->rewrite ."'"; 
 
         $cnx->query($flag_query);
-        }        
+        } 
+        jLog::log('fin import csv' ,'default');
         $cnx = null ;
         return $rep;
     }   
@@ -220,8 +229,9 @@ EOD;
             LIMIT 0,1 ")  ;
 
         foreach($rs as $r){
+        	jLog::log('fin import csv' ,'default');
         $path = $this->paths . $r->rewrite .'/' . $r->rewrite . '.csv' ;
-
+		
             $ch = curl_init();
             $fp = fopen($path, "w");
             curl_setopt($ch, CURLOPT_URL, $r->url  );

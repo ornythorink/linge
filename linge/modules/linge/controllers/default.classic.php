@@ -57,14 +57,19 @@ class defaultCtrl extends jController {
 	        		$image->longimage   = $image->imagecache;
 	        		$image->mediumimage = $image->imagecache;
 	        		$image->petiteimage = $image->imagecache;
-	        	}
+	        	}	        	
 	        	
-	            if($image->longimage !== null){
-	                $image->longimage = $this->resizeImage($image->longimage);                
-	            } elseif ($image->mediumimage !== null) {
-	                $image->mediumimage = $this->resizeImage($image->mediumimage);
-	            } elseif ($image->petiteimage !== null) {
-	                $image->petiteimage = $this->resizeImage($image->petiteimage);
+	        	$cache = false;
+	        	if($image->source != 'SDC'){
+	        		$cache = true;
+	        	}	        	
+	        	
+	            if($image->longimage !== null && $image->imagecache  == null){
+	                $image->longimage = $this->resizeImage($image->longimage, $cache);                
+	            } elseif ($image->mediumimage !== null && $image->imagecache  == null) {
+	                $image->mediumimage = $this->resizeImage($image->mediumimage, $cache);
+	            } elseif ($image->petiteimage !== null && $image->imagecache  == null ) {
+	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }				
 	        }  
 	        $tpl->assign( 'hoffres', $hoffres  );
@@ -72,14 +77,14 @@ class defaultCtrl extends jController {
 		} else {
 			$params = array('term' => $this->param('q') );
 			$client = RestClient::get($wsurl . 'index.php/vroum/produits/', $params);
-			
+
 			$tail = "";
 			if($rest = substr($client->getResponse(), -1) != "]" ) {
 				$tail = "]";
 			}			
 			
 			$produits = json_decode($client->getResponse().$tail);
-			
+
 	        foreach($produits as $image){
 	        	if($image->imagecache != '' && $image->imagecache != null){
 	        		$image->longimage   = $image->imagecache;
@@ -87,12 +92,17 @@ class defaultCtrl extends jController {
 	        		$image->petiteimage = $image->imagecache;
 	        	}
 	        	
-	            if($image->longimage !== null){
-	                $image->longimage = $this->resizeImage($image->longimage);                
-	            } elseif ($image->mediumimage !== null) {
-	                $image->mediumimage = $this->resizeImage($image->mediumimage);
-	            } elseif ($image->petiteimage !== null) {
-	                $image->petiteimage = $this->resizeImage($image->petiteimage);
+	        	$cache = false;
+	        	if($image->source != 'SDC'){
+	        		$cache = true;
+	        	}
+
+        		if($image->longimage !== null && $image->imagecache  == null){
+	                $image->longimage = $this->resizeImage($image->longimage, $cache);  	                	                              
+	            } elseif ($image->mediumimage !== null && $image->imagecache  == null) {
+	                $image->mediumimage = $this->resizeImage($image->mediumimage, $cache);	                	                
+	            } elseif ($image->petiteimage !== null && $image->imagecache  == null) {            		            	
+	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }
 	        }  	
 
@@ -105,7 +115,7 @@ class defaultCtrl extends jController {
         return $rep;
     }
     
-    function resizeImage($url){
+    function resizeImage($url, $useCache){
 		
 		if($url == ""){
 			return null;
@@ -133,20 +143,22 @@ class defaultCtrl extends jController {
         $params = array('maxwidth'=>190, 'maxheight'=>242,'background'=>'#ffffff','zoom'=>100);
         $att = jImageModifier::get('../var/upload/img'. $rand . '.jpg', $params);
 
-        // instanciation de la factory
-        $maFactory = jDao::get("linge~produits");
-        
-		$conditions = jDao::createConditions();
-		$conditions->startGroup('OR');
-			$conditions->addCondition('petiteimage','=',$url);
-			$conditions->addCondition('mediumimage','=',$url);
-			$conditions->addCondition('longimage','=',$url);	        
-		$conditions->endGroup();
-         
-        $liste = $maFactory->findBy($conditions)->fetch();    
-        if($liste != null && $liste != false){   
-	        $liste->imagecache = $att['src'];
-	        $maFactory->update($liste);
+        if($useCache == true){
+	        // instanciation de la factory
+	        $maFactory = jDao::get("linge~produits");
+	        
+			$conditions = jDao::createConditions();
+			$conditions->startGroup('OR');
+				$conditions->addCondition('petiteimage','=',$url);
+				$conditions->addCondition('mediumimage','=',$url);
+				$conditions->addCondition('longimage','=',$url);	        
+			$conditions->endGroup();
+	         
+	        $liste = $maFactory->findBy($conditions)->fetch();    
+	        if($liste != null && $liste != false){   
+		        $liste->imagecache = $att['src'];
+		        $maFactory->update($liste);
+	        }
         }
         return  $att['src'];
     }
