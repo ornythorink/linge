@@ -9,8 +9,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
          $rep = $this->getResponse(); 
          
          jLog::log('start to process' ,'default');  
-  
-  		 $this->nettoieProduits();      
+    
          
           // on vide l'arborescence   
          $this->nettoieStoreTree();
@@ -30,12 +29,12 @@ class netaffcsvCtrl extends jControllerCmdLine {
     }
     
 
-    public function nettoieProduits(){
+    public function nettoieProduits($boutique){
         $rep = $this->getResponse(); 
         
          $cnx = jDb::getConnection();
         
-        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'NET' ")  ;
+        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'NET'  AND  '" .  $boutique ."'")  ;
         $dbh->execute();
         $dbh = null ;
         $cnx = null ;
@@ -102,7 +101,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
         
         
         jLog::log($path ,'default');
-
+        $this->nettoieProduits($r->rewrite);
        	
         	$fo = new SplFileObject($path);  
   
