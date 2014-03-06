@@ -62,13 +62,13 @@ class defaultCtrl extends jController {
 	        	$cache = false;
 	        	if($image->source != 'SDC'){
 	        		$cache = true;
-	        	}	        	
-	        	
-	            if($image->longimage !== null && $image->imagecache  == null){
-	                $image->longimage = $this->resizeImage($image->longimage, $cache);                
-	            } elseif ($image->mediumimage !== null && $image->imagecache  == null) {
-	                $image->mediumimage = $this->resizeImage($image->mediumimage, $cache);
-	            } elseif ($image->petiteimage !== null && $image->imagecache  == null ) {
+	        	}	       	
+	        		        
+        		if( ($image->longimage !== null &&  $image->longimage != '') && $image->imagecache  == null){ 	  					
+	                $image->longimage = $this->resizeImage($image->longimage, $cache);  	                	                              
+	            } elseif ( ($image->mediumimage !== null &&  $image->mediumimage != '') && $image->imagecache  == null) {     	
+	                $image->mediumimage = $this->resizeImage($image->mediumimage, $cache);	                	                
+	            } elseif (  ($image->petiteimage !== null &&  $image->petiteimage != '')  && $image->imagecache  == null) {            		            	
 	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }				
 	        }  
@@ -85,23 +85,24 @@ class defaultCtrl extends jController {
 			
 			$produits = json_decode($client->getResponse().$tail);
 
-	        foreach($produits as $image){
+	        foreach($produits as $image){    	
+	        	
 	        	if($image->imagecache != '' && $image->imagecache != null){
 	        		$image->longimage   = $image->imagecache;
 	        		$image->mediumimage = $image->imagecache;
 	        		$image->petiteimage = $image->imagecache;
-	        	}
-	        	
+	        	}        	
+   		        	
 	        	$cache = false;
 	        	if($image->source != 'SDC'){
 	        		$cache = true;
 	        	}
 
-        		if($image->longimage !== null && $image->imagecache  == null){
+        		if( ($image->longimage !== null &&  $image->longimage != '') && $image->imagecache  == null){ 	  					
 	                $image->longimage = $this->resizeImage($image->longimage, $cache);  	                	                              
-	            } elseif ($image->mediumimage !== null && $image->imagecache  == null) {
+	            } elseif ( ($image->mediumimage !== null &&  $image->mediumimage != '') && $image->imagecache  == null) {     	
 	                $image->mediumimage = $this->resizeImage($image->mediumimage, $cache);	                	                
-	            } elseif ($image->petiteimage !== null && $image->imagecache  == null) {            		            	
+	            } elseif (  ($image->petiteimage !== null &&  $image->petiteimage != '')  && $image->imagecache  == null) {            		            	
 	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }
 	        }  	

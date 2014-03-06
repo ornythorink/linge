@@ -11,3 +11,23 @@ array (   'module' => 'batch',   'action' => 'zanoxcsv:run', )
 	6	jCmdlineCoordinator->process()	/home/ornythorink/htdocs/linge/linge/scripts/cmdline.php : 20
 
 
+2014-03-06 21:03:18	127.0.0.1	warning	2014-03-06 21:03:18	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:102)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	157
+	/linge/linge/www/index.php/linge/?q=Culotte&tag=Culotte+femme
+array (   'q' => 'Culotte',   'tag' => 'Culotte femme',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 157
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-06 21:03:18	127.0.0.1	warning	2014-03-06 21:03:18	127.0.0.1	[2]	Cannot modify header information - headers already sent by (output started at /home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php:102)	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php	165
+	/linge/linge/www/index.php/linge/?q=Culotte&tag=Culotte+femme
+array (   'q' => 'Culotte',   'tag' => 'Culotte femme',   'module' => 'linge',   'action' => 'default:index', )
+
+	0	header()	/home/ornythorink/htdocs/linge/lib/jelix/core/jResponse.class.php : 165
+	1	jResponse->sendHttpHeaders()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 195
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+

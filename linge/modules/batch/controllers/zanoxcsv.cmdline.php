@@ -35,7 +35,7 @@ class zanoxcsvCtrl extends jControllerCmdLine {
     	
     	$cnx = jDb::getConnection();
     	
-    	$dbh = $cnx->prepare( "DELETE FROM produits WHERE  source = 'ZNX' AND  '" .  $boutique ."'")  ;
+    	$dbh = $cnx->prepare( "DELETE FROM produits WHERE  source = 'ZNX' AND   boutique = '" .  $boutique ."'")  ;
     	$dbh->execute();
     	$dbh = null ;
     	$cnx = null ;

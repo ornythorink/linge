@@ -19,3 +19,28 @@
 2014-03-01 00:11:12	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
 2014-03-01 00:11:13	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
 2014-03-01 00:15:50	127.0.0.1	default	fin import csv
+2014-03-06 20:34:58	127.0.0.1	default	start to process
+2014-03-06 20:34:59	127.0.0.1	default	fin import csv
+2014-03-06 20:35:42	127.0.0.1	default	import csv
+2014-03-06 20:38:49	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
+2014-03-06 20:38:49	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
+2014-03-06 20:40:14	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Informations sur le lavage à 30°" onclick="window.open('https://images-na.ssl-' at line 33
+2014-03-06 20:40:20	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
+2014-03-06 20:42:49	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.marksandspencer.com/b/1326577031">", 
+		"http://ad.zanox.com/ppc/?273' at line 33
+2014-03-06 20:42:49	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.marksandspencer.com/b/1326577031">", 
+		"http://ad.zanox.com/ppc/?273' at line 33
+2014-03-06 20:44:32	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
+2014-03-06 20:44:33	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'toolbar=no,menubar=no,scrollbars=no,statusbar=no,height="+strHeight+",width="+st' at line 33
+2014-03-06 20:49:15	127.0.0.1	default	fin import csv
+2014-03-06 20:49:22	127.0.0.1	default	start to process
+2014-03-06 20:49:22	127.0.0.1	default	fin import csv
+2014-03-06 20:49:28	127.0.0.1	default	import csv
+2014-03-06 20:50:34	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '7/8, qui dévoile les chevilles.    Forme: Pantalon 7/8 droit, deux zips.  Le p' at line 37
+2014-03-06 20:51:20	127.0.0.1	default	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'oui" en strass au dos", 
+		"644330370",  
+		"14.90",  
+		"",  	
+		"", 
+		"E' at line 25
+2014-03-06 20:51:52	127.0.0.1	default	fin import csv

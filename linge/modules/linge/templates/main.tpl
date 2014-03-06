@@ -61,7 +61,8 @@
 		                           	 	{if $child->id_parent == $parent->id_categorie}
 		                                	<li><a href="{jurl 'linge~default:index' , array('q' => $child->name_categorie, 'tag' => $child->tag) }">{$child->name_categorie}</a></li>
 	                                	{/if}
-									{/foreach}                                
+									{/foreach}
+									                                
 		                           </ul>
 	                           </li>
                            </ul>

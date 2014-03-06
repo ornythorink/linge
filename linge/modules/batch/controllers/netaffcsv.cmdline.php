@@ -34,7 +34,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
         
          $cnx = jDb::getConnection();
         
-        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'NET'  AND  '" .  $boutique ."'")  ;
+        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'NET'  AND  boutique = '" .  $boutique ."'")  ;
         $dbh->execute();
         $dbh = null ;
         $cnx = null ;

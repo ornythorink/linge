@@ -33,7 +33,7 @@ class effilcsvCtrl extends jControllerCmdLine {
         
          $cnx = jDb::getConnection();
         
-        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'EFF'  AND  '" .  $boutique ."'")  ;
+        $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'EFF'  AND  boutique =  '" .  $boutique ."'")  ;
         $dbh->execute();
         $dbh = null ;
         $cnx = null ;
