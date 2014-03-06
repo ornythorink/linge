@@ -10,7 +10,7 @@ default = "linge"
 driver="mysql"
 
 ; For most of drivers:
-database="ornythorink_lingerie_dev"
+database="ornythorink_lingerie"
 host= "mysql.alwaysdata.com"
 user= "12932_ornythorin"
 password="baruk146"
