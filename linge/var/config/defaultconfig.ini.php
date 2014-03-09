@@ -6,7 +6,7 @@ startModule=linge
 startAction="default:index"
 
 locale=fr_FR
-availableLocales=fr_FR
+availableLocales=fr_FR,en_EN
 charset=UTF-8
 
 imagecache=/home/ornythorink/htdocs/linge/linge
@@ -55,6 +55,7 @@ linge.access=2
 batch.access=2
 [coordplugins]
 ;name = file_ini_name or 1
+autolocale = autolocale.coord.ini.php
 
 [tplplugins]
 defaultJformsBuilder=html
@@ -71,7 +72,7 @@ html=myHtmlResponse
 
 [urlengine]
 ; name of url engine :  "simple", "basic_significant" or "significant"
-engine=basic_significant
+engine=significant
 
 ; this is the url path to the jelix-www content (you can found this content in lib/jelix-www/)
 ; because the jelix-www directory is outside the yourapp/www/ directory, you should create a link to

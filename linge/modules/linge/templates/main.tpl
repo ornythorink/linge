@@ -38,9 +38,10 @@
             <!--Responsive NAV-->            
             <!--Responsive NAV-->
             <!--Search Starts-->
-  	        <form class="header_search" action="{jurl 'linge~default:index'}" >
+  	        <form class="header_search" action="{jurl 'linge~search:index'}" >
                 <div class="form-search">
                     <input id="search" type="text" name="q" value="" class=""  placeholder="Search">
+                    <input type="hidden" name="lang" value="{$j_locale}" >
                     <button type="submit" title="Search"></button>
                 </div>
             </form>
@@ -55,21 +56,24 @@
                  {foreach $categoriesParent as $parent}
  						<li class="active"><a href="">{$parent->name_categorie}</a>
                            <ul class="sub_menu">
-	                           <li> <a href="{jurl 'linge~default:index' , array('q' => $parent->name_categorie , 'tag' => $parent->tag)  }">{$parent->name_categorie}</a>
-		                           <ul>
-		                           	 {foreach $categoriesChild as $child}
-		                           	 	{if $child->id_parent == $parent->id_categorie}
-		                                	<li><a href="{jurl 'linge~default:index' , array('q' => $child->name_categorie, 'tag' => $child->tag) }">{$child->name_categorie}</a></li>
-	                                	{/if}
-									{/foreach}
-									                                
-		                           </ul>
-	                           </li>
+                           	   {foreach $categoriesChild as $child}
+	                           	   {if $child->id_parent == $parent->id_categorie}
+		                           <li> <a href="{jurl 'linge~category:index' , array('q' => $child->name_categorie, 'id' => $child->id_categorie,'lang'=>$j_locale)  }">{$child->name_categorie}</a>
+			                           <ul>
+			                           {foreach $categoriesSub as $sub}
+	                           	   	   		{if $child->id_categorie == $sub->id_parent}			                           	 	
+			                                	<li><a href="{jurl 'linge~category:index' , array('q' => $sub->name_categorie, 'id' => $sub->id_categorie,'lang'=>$j_locale) }">{$sub->name_categorie}</a></li>
+		                                	 {/if}
+									   {/foreach}                                
+			                           </ul>
+		                           </li>
+		                           {/if}
+	                           {/foreach} 
                            </ul>
                         </li> 							
                  {/foreach}	 
             </ul>
- 
+
         </nav>
         <!--Navigation Ends-->
     </div>

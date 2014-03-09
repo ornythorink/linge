@@ -8,7 +8,7 @@
 * @license    All rights reserved
 */
 
-class defaultCtrl extends jController {
+class categoryCtrl extends jController {
     /**
     *
     */
@@ -40,15 +40,16 @@ class defaultCtrl extends jController {
 		
 		$tpl->assign('categoriesParent', $categoriesParent);		
 		$tpl->assign('categoriesChild', $categoriesChild);
-		$tpl->assign('categoriesSub', $categoriesSub);
+		$tpl->assign('categoriesSub', $categoriesSub);		
 
 		
 		$tpl->assign( 'domaine' ,  $domaine );
+						
+			$params = array('term' => $this->param('q') );
+			$id = array('id' => $this->param('id') );
 
-			$client = RestClient::get($wsurl . 'index.php/vroum/produits/home');
+			$client = RestClient::get($wsurl . 'index.php/vroum/produits/', $params);
 
-			
-			
 			$tail = "";
 			if($rest = substr($client->getResponse(), -1) != "]" ) {
 				$tail = "]";
@@ -76,10 +77,12 @@ class defaultCtrl extends jController {
 	            } elseif (  ($image->petiteimage !== null &&  $image->petiteimage != '')  && $image->imagecache  == null) {            		            	
 	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }
-	        }
-	        
-	        $tpl->assign( 'hoffres', $produits  );
-			$rep->body->assign('MAIN', $tpl->fetch("linge~main")); 		
+	        }  	
+
+	        $tpl->assign( 'produits' , $produits  );
+
+			$rep->body->assign('MAIN', $tpl->fetch("linge~listing")); 						
+		
 		
         return $rep;
     }

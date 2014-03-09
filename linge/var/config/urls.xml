@@ -3,5 +3,33 @@
     <entrypoint type="classic" name="index" default="true">
         <url pathinfo="/" module="linge" action="default:index">
         </url>
+        <url pathinfo="/fr/comparer/:q-:id" module="linge" action="category:index">
+        	<param name="q"   type="string" />
+        	<param name="id"   type="number" />
+        	<static name="lang" value="fr_FR" />
+        </url>   
+        
+        <url pathinfo="/en/comparer/:q-:id" module="linge" action="category:index">
+        	<param name="q"   type="string" />
+        	<param name="id"   type="number" />
+        	<static name="lang" value="en_EN" />
+        </url>    
+
+        <url pathinfo="/fr/recherche/" module="linge" action="search:send">
+        </url>   
+        
+        <url pathinfo="/en/recherche/" module="linge" action="search:send">
+        </url>    
+
+        <url pathinfo="/fr/recherche/:q" module="linge" action="search:index">
+        	<param name="q"   type="string" />
+        	<static name="lang" value="en_EN" />        
+        </url>   
+        
+        <url pathinfo="/en/recherche/:q" module="linge" action="search:index">
+        	<param name="q"   type="string" />
+        	<static name="lang" value="en_EN" />        
+        </url> 
+                     
     </entrypoint>
 </urls>
