@@ -8,7 +8,7 @@
 * @license    All rights reserved
 */
 
-require (realpath('/home/ornythorink/htdocs/linge/lib/jelix/').'/'.'init.php');
+require (realpath('/home/ornythorink/linge/linge/lib/jelix/').'/'.'init.php');
 
 
 jApp::initPaths(
