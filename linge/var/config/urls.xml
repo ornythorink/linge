@@ -3,16 +3,18 @@
     <entrypoint type="classic" name="index" default="true">
         <url pathinfo="/" module="linge" action="default:index">
         </url>
-        <url pathinfo="/fr/comparer/:q-:id" module="linge" action="category:index">
+        <url pathinfo="/fr/comparer/:q-:id,:offset" module="linge" action="category:index">
         	<param name="q"   type="string" />
         	<param name="id"   type="number" />
         	<static name="lang" value="fr_FR" />
+        	<param name="offset" value="number" />
         </url>   
         
-        <url pathinfo="/en/comparer/:q-:id" module="linge" action="category:index">
+        <url pathinfo="/en/comparer/:q-:id,:offset" module="linge" action="category:index">
         	<param name="q"   type="string" />
         	<param name="id"   type="number" />
         	<static name="lang" value="en_EN" />
+        	<param name="offset" value="number" />        	
         </url>    
 
         <url pathinfo="/fr/recherche/" module="linge" action="search:send">
@@ -32,4 +34,14 @@
         </url> 
                      
     </entrypoint>
+
+ <classicentrypoint name="admin">
+     <url pathinfo="" module="master_admin" action="default:index" />
+
+     <url pathinfo="/login/" module="jauth" include="urls.xml" />
+     <url pathinfo="/acl/" module="jacl2db_admin"  include="urls.xml"/>
+     <url pathinfo="/auth/" module="jauthdb_admin"  include="urls.xml"/>
+ </classicentrypoint>
+    
+    
 </urls>

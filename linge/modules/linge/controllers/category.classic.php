@@ -45,10 +45,10 @@ class categoryCtrl extends jController {
 		
 		$tpl->assign( 'domaine' ,  $domaine );
 						
-			$params = array('term' => $this->param('q') );
+			$params = array('term' => $this->param('q') , 'offset' => $this->param('offset') );
 			$id = array('id' => $this->param('id') );
 
-			$client = RestClient::get($wsurl . 'index.php/vroum/produits/', $params);
+			$client = RestClient::get($wsurl . 'index.php/vroum/produits/produitsCategory', $params);
 
 			$tail = "";
 			if($rest = substr($client->getResponse(), -1) != "]" ) {
@@ -80,7 +80,10 @@ class categoryCtrl extends jController {
 	        }  	
 
 	        $tpl->assign( 'produits' , $produits  );
-
+	        $tpl->assign( 'q' , $this->param('q'));
+	        $tpl->assign( 'id' , $this->param('id'));
+	        $tpl->assign( 'offset' , $this->param('offset'));
+	        
 			$rep->body->assign('MAIN', $tpl->fetch("linge~listing")); 						
 		
 		

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dao xmlns="http://jelix.org/ns/dao/1.0">
+    <datasources>
+        <primarytable name="produits" realname="produits" primarykey="id_produit" />
+    </datasources>
+    <record>
+        <property name="id_produit" fieldname="id_produit" datatype="int" autoincrement="true"/>
+        <property name="id_produit_affilie" fieldname="id_produit_affilie" datatype="varchar" default="" maxlength="255"/>
+        <property name="reference_fabriquant" fieldname="reference_fabriquant" datatype="varchar" default="" maxlength="255"/>
+        <property name="status" fieldname="status" datatype="enum" required="true" default="Validation"/>
+        <property name="nom" fieldname="nom" datatype="text" required="true"/>
+        <property name="prix" fieldname="prix" datatype="float" required="true"/>
+        <property name="ancien_prix" fieldname="ancien_prix" datatype="float" default=""/>
+        <property name="monnaie" fieldname="monnaie" datatype="varchar" required="true" maxlength="10"/>
+        <property name="short_description" fieldname="short_description" datatype="text" default=""/>
+        <property name="long_description" fieldname="long_description" datatype="text" default=""/>
+        <property name="petiteimage" fieldname="petiteimage" datatype="text" required="true"/>
+        <property name="mediumimage" fieldname="mediumimage" datatype="text" default=""/>
+        <property name="longimage" fieldname="longimage" datatype="text" default=""/>
+        <property name="imagecache" fieldname="imagecache" datatype="varchar" required="true" maxlength="255"/>
+        <property name="marque" fieldname="marque" datatype="varchar" default="" maxlength="255"/>
+        <property name="url" fieldname="url" datatype="text" default=""/>
+        <property name="ean13" fieldname="ean13" datatype="varchar" default="" maxlength="120"/>
+        <property name="delais" fieldname="delais" datatype="varchar" default="" maxlength="255"/>
+        <property name="promo" fieldname="promo" datatype="varchar" default="" maxlength="255"/>
+        <property name="mention_transport" fieldname="mention_transport" datatype="varchar" default="" maxlength="255"/>
+        <property name="transport" fieldname="transport" datatype="float" default=""/>
+        <property name="boutique" fieldname="boutique" datatype="varchar" default="" maxlength="125"/>
+        <property name="source" fieldname="source" datatype="char" required="true"/>
+        <property name="id_marchand" fieldname="id_marchand" datatype="varchar" default="" maxlength="135"/>
+        <property name="categorie_marchand" fieldname="categorie_marchand" datatype="varchar" default="" maxlength="255"/>
+        <property name="created_at" fieldname="created_at" datatype="datetime" required="true"/>
+        <property name="last_update" fieldname="last_update" datatype="timestamp" required="true" default="0000-00-00 00:00:00"/>
+        <property name="qte" fieldname="qte" datatype="tinyint" default=""/>
+        <!--<property name="" fieldname="" datatype="string/int/float/date"
+        required="yes" maxlength="" minlength="" regexp="" sequence=""
+        updatepattern="" insertpattern="" selectpattern=""/>-->
+    </record>
+    <factory>
+        <!--<method name="findByStage" type="select/selectfirst/delete/update/php">
+            <parameter name="" />
+            <values>
+                <value property="" value="" />
+            </values>
+            <conditions logic="and/or">
+                <eq property="" value="" />
+            </conditions>
+            <order>
+                <orderitem property="" way="asc/desc" />
+            </order>
+            <limit offset="" count=""/>
+            <body><![CDATA[
+            ]]></body>
+        </method>-->
+    </factory>
+</dao>

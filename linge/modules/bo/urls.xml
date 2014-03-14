@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suburls xmlns="http://jelix.org/ns/suburls/1.0">
+   
+
+<url pathinfo="/category/" action="category:index"/>
+<url pathinfo="/category/view/:id" action="category:view"/>
+<url pathinfo="/category/precreate" action="category:precreate"/>
+<url pathinfo="/category/create" action="category:create"/>
+<url pathinfo="/category/savecreate" action="category:savecreate"/>
+<url pathinfo="/category/preedit/:id" action="category:preupdate"/>
+<url pathinfo="/category/edit/:id" action="category:editupdate"/>
+<url pathinfo="/category/save/:id" action="category:saveupdate"/>
+<url pathinfo="/category/delete/:id" action="category:delete"/>
+
+</suburls>

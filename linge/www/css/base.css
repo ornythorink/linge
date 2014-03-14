@@ -401,6 +401,14 @@ div.selector span {
 	color:#818181;
 }
 
+/*  PAGELINKS */
+
+.pagelinks li { display:inline; border:1px solid gray; padding:4px; color:black; }
+.pagelinks li.pagelinks-disabled { color: gray;}
+.pagelinks li.pagelinks-current { font-weight:bold;}
+.pagelinks li a:hover, .pagelinks li:hover { background-color:#eee; }
+
+
 
 /*TYPOGRAPHY*/
 h2.sub_title{ font-size:18px; color:#312e2b; font-weight:normal; padding-bottom:12px; padding-top:25px; text-transform:uppercase;}

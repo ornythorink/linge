@@ -77,9 +77,12 @@ class searchCtrl extends jController {
 	                $image->petiteimage = $this->resizeImage($image->petiteimage, $cache);
 	            }
 	        }  	
+	        
 
 	        $tpl->assign( 'produits' , $produits  );
-
+	        $tpl->assign( 'q' , $this->param('q'));
+	        $tpl->assign( 'offset' , $this->param('offset'));
+	        
 			$rep->body->assign('MAIN', $tpl->fetch("linge~search")); 						
 		
 		

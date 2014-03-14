@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form xmlns="http://jelix.org/ns/forms/1.1">
+
+
+<input ref="id_produit_affilie" maxlength="255">
+	<label locale='bo~produits.form.id_produit_affilie' />
+</input>
+
+<input ref="reference_fabriquant" maxlength="255">
+	<label locale='bo~produits.form.reference_fabriquant' />
+</input>
+
+<input ref="status" required="true" defaultvalue="Validation">
+	<label locale='bo~produits.form.status' />
+</input>
+
+<textarea ref="nom" required="true">
+	<label locale='bo~produits.form.nom' />
+</textarea>
+
+<input ref="prix" required="true" type="decimal">
+	<label locale='bo~produits.form.prix' />
+</input>
+
+<input ref="ancien_prix" type="decimal">
+	<label locale='bo~produits.form.ancien_prix' />
+</input>
+
+<input ref="monnaie" required="true" maxlength="10">
+	<label locale='bo~produits.form.monnaie' />
+</input>
+
+<textarea ref="short_description">
+	<label locale='bo~produits.form.short_description' />
+</textarea>
+
+<textarea ref="long_description">
+	<label locale='bo~produits.form.long_description' />
+</textarea>
+
+<textarea ref="petiteimage" required="true">
+	<label locale='bo~produits.form.petiteimage' />
+</textarea>
+
+<textarea ref="mediumimage">
+	<label locale='bo~produits.form.mediumimage' />
+</textarea>
+
+<textarea ref="longimage">
+	<label locale='bo~produits.form.longimage' />
+</textarea>
+
+<input ref="imagecache" required="true" maxlength="255">
+	<label locale='bo~produits.form.imagecache' />
+</input>
+
+<input ref="marque" maxlength="255">
+	<label locale='bo~produits.form.marque' />
+</input>
+
+<textarea ref="url">
+	<label locale='bo~produits.form.url' />
+</textarea>
+
+<input ref="ean13" maxlength="120">
+	<label locale='bo~produits.form.ean13' />
+</input>
+
+<input ref="delais" maxlength="255">
+	<label locale='bo~produits.form.delais' />
+</input>
+
+<input ref="promo" maxlength="255">
+	<label locale='bo~produits.form.promo' />
+</input>
+
+<input ref="mention_transport" maxlength="255">
+	<label locale='bo~produits.form.mention_transport' />
+</input>
+
+<input ref="transport" type="decimal">
+	<label locale='bo~produits.form.transport' />
+</input>
+
+<input ref="boutique" maxlength="125">
+	<label locale='bo~produits.form.boutique' />
+</input>
+
+<input ref="source" required="true">
+	<label locale='bo~produits.form.source' />
+</input>
+
+<input ref="id_marchand" maxlength="135">
+	<label locale='bo~produits.form.id_marchand' />
+</input>
+
+<input ref="categorie_marchand" maxlength="255">
+	<label locale='bo~produits.form.categorie_marchand' />
+</input>
+
+<input ref="created_at" required="true" type="datetime">
+	<label locale='bo~produits.form.created_at' />
+</input>
+
+<input ref="last_update" required="true" defaultvalue="0000-00-00 00:00:00" type="datetime">
+	<label locale='bo~produits.form.last_update' />
+</input>
+
+<input ref="qte" type="integer">
+	<label locale='bo~produits.form.qte' />
+</input>
+
+<submit ref="_submit">
+	<label locale='bo~produits.form.ok' />
+</submit>
+</form>

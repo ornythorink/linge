@@ -3,18 +3,19 @@
 
 [jdb]
 ; name of the default profile to use for any connection
-default = "linge"
+default=linge
 
+jacl2_profile=linge
 [jdb:linge]
 ; the driver name : mysql, pgsql, sqlite...
-driver="mysql"
+driver=mysql
 
 ; For most of drivers:
-database="ornythorink_lingerie_dev"
-host= "mysql.alwaysdata.com"
-user= "12932_ornythorin"
-password="baruk146"
-persistent= on
+database=ornythorink_lingerie_dev
+host=mysql.alwaysdata.com
+user=12932_ornythorin
+password=baruk146
+persistent=on
 usepdo=on
 
 ; when you have charset issues, enable force_encoding so the connection will be
@@ -33,7 +34,7 @@ usepdo=on
 
 [jkvdb]
 ; default profile
-default =
+default=
 
 ;[jkvdb:sectionname] change this
 ; ----------- Parameters common to all drivers :
@@ -50,7 +51,7 @@ default =
 ;  host[] = memcache_host1:11211
 ;  host[] = memcache_host2:11211
 ;  ...
-host = "localhost:11211"
+host="localhost:11211"
 
 ; -------- files driver
 ;driver = file
@@ -84,18 +85,18 @@ soap_version=SOAP_1_1
 ;----------------- jCache
 [jcache]
 
-default = myapp
+default=myapp
 
 [jcache:myapp]
 
 ; Parameters common to all drivers :
 
 ;    disable or enable cache for this profile
-enabled = 1
+enabled=1
 ;    driver type (file, db, memcached)
-driver = file
+driver=file
 ;    TTL used (0 means no expire)
-ttl = 0
+ttl=0
 
 ; Automatic cleaning configuration (not necessary with memcached)
 ;   0 means disabled
@@ -106,17 +107,17 @@ ttl = 0
 ; Parameters for file driver :
 
 ; directory where to put the cache files (optional default jApp::tempPath('cache/'))
-cache_dir =
+cache_dir=
 ; enable / disable locking file
-file_locking = 1
+file_locking=1
 ; directory level. Set the directory structure level. 0 means "no directory structure", 1 means "one level of directory", 2 means "two levels"...
-directory_level = 0
+directory_level=0
 ; umask for directory structure (default '0700')
-directory_umask =
+directory_umask=
 ; prefix for cache files (default 'jelix_cache')
-file_name_prefix = ""
+file_name_prefix=
 ; umask for cache files (default '0600')
-cache_file_umask =
+cache_file_umask=
 
 
 ; Parameters for db driver :
@@ -138,4 +139,5 @@ cache_file_umask =
 src_url=
 src_path=
 cache_url=
-cache_path= 
+cache_path=
+

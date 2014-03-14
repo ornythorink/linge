@@ -7,3 +7,5 @@ startAction="default:index"
 [responses]
 [modules]
 batch.access=2
+
+bo.access=2

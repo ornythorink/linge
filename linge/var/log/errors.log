@@ -1178,3 +1178,2613 @@ array (   'module' => 'linge',   'action' => 'search:index',   'lang' => 'en_EN'
 	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
 
 
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	warning	2014-03-10 20:08:24	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	notice	2014-03-10 20:08:24	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:24	127.0.0.1	warning	2014-03-10 20:08:24	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	warning	2014-03-10 20:08:56	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	notice	2014-03-10 20:08:56	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:08:56	127.0.0.1	warning	2014-03-10 20:08:56	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	warning	2014-03-10 20:15:50	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	notice	2014-03-10 20:15:50	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:15:50	127.0.0.1	warning	2014-03-10 20:15:50	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	warning	2014-03-10 20:22:06	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	notice	2014-03-10 20:22:06	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:06	127.0.0.1	warning	2014-03-10 20:22:06	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	warning	2014-03-10 20:22:56	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	notice	2014-03-10 20:22:56	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:22:56	127.0.0.1	warning	2014-03-10 20:22:56	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	17
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	21
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	22
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	23
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	24
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	25
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	26
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	27
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	28
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: domaine	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	46
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: categoriesParent	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	warning	2014-03-10 20:25:26	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	66
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	notice	2014-03-10 20:25:26	127.0.0.1	[8]	Undefined index: hoffres	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-10 20:25:26	127.0.0.1	warning	2014-03-10 20:25:26	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	142
+	/linge/linge/www/index.php?module=bo&action=category:index
+array (   'module' => 'bo',   'action' => 'category:index', )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/lib/jelix/core/response/jResponseHtml.class.php : 184
+	2	jResponseHtml->output()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 220
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:18:15	127.0.0.1	error	2014-03-13 20:18:15	127.0.0.1	[18]	Module inconnu dans le sélecteur "category~default:index@classic"	/home/ornythorink/htdocs/linge/lib/jelix/core/selector/jSelectorAct.class.php	69
+	/linge/linge/www/index.php/fr/comparer/bandeau-11
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11', )
+
+	0	jSelectorAct->_createPath()	/home/ornythorink/htdocs/linge/lib/jelix/core/selector/jSelectorAct.class.php : 55
+	1	jSelectorAct->__construct()	/home/ornythorink/htdocs/linge/lib/jelix/core/jUrl.class.php : 160
+	2	jUrl::get()	/home/ornythorink/htdocs/linge/lib/jelix/plugins/tpl/html/function.pagelinks.php : 42
+	3	jtpl_function_html_pagelinks()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php : 165
+	4	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	5	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 84
+	6	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	7	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:26:16	127.0.0.1	notice	2014-03-13 20:26:16	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:44	127.0.0.1	notice	2014-03-13 20:40:44	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/bandeau-11/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:40:52	127.0.0.1	notice	2014-03-13 20:40:52	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	79
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:43:46	127.0.0.1	notice	2014-03-13 20:43:46	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	75
+	/linge/linge/www/index.php/fr/comparer/push+up-13/0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'push+up',   'id' => '13',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:35	127.0.0.1	notice	2014-03-13 20:44:35	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:44:45	127.0.0.1	notice	2014-03-13 20:44:45	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	77
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-13 20:46:15	127.0.0.1	notice	2014-03-13 20:46:15	127.0.0.1	[8]	Use of undefined constant offset - assumed 'offset'	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	73
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:13:48	127.0.0.1	warning	2014-03-14 22:13:48	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	60
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:13:48	127.0.0.1	warning	2014-03-14 22:13:48	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:26:47	127.0.0.1	warning	2014-03-14 22:26:47	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	60
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:26:47	127.0.0.1	warning	2014-03-14 22:26:47	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:30:06	127.0.0.1	warning	2014-03-14 22:30:06	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	60
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:30:06	127.0.0.1	warning	2014-03-14 22:30:06	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:55	127.0.0.1	warning	2014-03-14 22:32:55	127.0.0.1	[2]	getimagesize(http://cdn3.vslingerie.fr/1207/soutien-gorge-bandeau-bretelles-amovibles-panache-evie-nude.jpg): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	103
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 103
+	1	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:55	127.0.0.1	notice	2014-03-14 22:32:55	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	116
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	1	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:56	127.0.0.1	warning	2014-03-14 22:32:56	127.0.0.1	[2]	getimagesize(http://cdn2.vslingerie.fr/1293/soutien-gorge-bandeau-bretelles-amovibles-panache-evie-noir.jpg): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	103
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 103
+	1	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:56	127.0.0.1	notice	2014-03-14 22:32:56	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	116
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	1	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:57	127.0.0.1	warning	2014-03-14 22:32:57	127.0.0.1	[2]	getimagesize(http://cdn1.vslingerie.fr/2721/soutien-gorge-bandeau-bretelles-amovibles-panache-porcelain-blanc.jpg): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	103
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 103
+	1	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:32:57	127.0.0.1	notice	2014-03-14 22:32:57	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	116
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	1	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:33:00	127.0.0.1	warning	2014-03-14 22:33:00	127.0.0.1	[2]	getimagesize(http://cdn1.vslingerie.fr/4355/soutien-gorge-bandeau-bretelles-amovibles-panache-evie-bridal-mariage.jpg): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	103
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 103
+	1	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:33:00	127.0.0.1	notice	2014-03-14 22:33:00	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	116
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	1	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:33:01	127.0.0.1	warning	2014-03-14 22:33:01	127.0.0.1	[2]	getimagesize(http://cdn1.vslingerie.fr/492/soutien-gorge-bandeau-bretelles-amovibles-fantasie-ivory-rose-ivoire.jpg): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	103
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	getimagesize()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 103
+	1	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 22:33:01	127.0.0.1	notice	2014-03-14 22:33:01	127.0.0.1	[8]	Undefined index: 	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	116
+	/linge/linge/www/index.php/fr/comparer/soutien-gorge-bandeau-11,0
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'soutien-gorge-bandeau',   'id' => '11',   'offset' => '0', )
+
+	0	categoryCtrl->resizeImage()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 74
+	1	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	2	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 23:49:27	127.0.0.1	warning	2014-03-14 23:49:27	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	60
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-14 23:49:27	127.0.0.1	warning	2014-03-14 23:49:27	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:07:51	127.0.0.1	warning	2014-03-15 00:07:51	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	60
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:07:51	127.0.0.1	warning	2014-03-15 00:07:51	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 87
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:08:55	127.0.0.1	warning	2014-03-15 00:08:55	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php	61
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:08:55	127.0.0.1	warning	2014-03-15 00:08:55	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/listing_html_t_15.php	114
+	/linge/linge/www/index.php/fr/comparer/pyjama-femme-28,20
+array (   'module' => 'linge',   'action' => 'category:index',   'lang' => 'fr_FR',   'q' => 'pyjama-femme',   'id' => '28',   'offset' => '20', )
+
+	0	template_2e34bd11b5fc697abfaeb547c1ae4f8e()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/category.classic.php : 88
+	2	categoryCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:10:46	127.0.0.1	warning	2014-03-15 00:10:46	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php	59
+	/linge/linge/www/
+array ( )
+
+	0	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	1	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+
+2014-03-15 00:10:46	127.0.0.1	warning	2014-03-15 00:10:46	127.0.0.1	[2]	Invalid argument supplied for foreach()	/home/ornythorink/htdocs/linge/temp/linge/www/compiled/templates/modules/linge/main_html_t_15.php	141
+	/linge/linge/www/
+array ( )
+
+	0	template_e8e715e0e22bd179f1b134efc545d167()	/home/ornythorink/htdocs/linge/lib/jelix/tpl/jTpl.class.php : 284
+	1	jTpl->fetch()	/home/ornythorink/htdocs/linge/linge/modules/linge/controllers/default.classic.php : 82
+	2	defaultCtrl->index()	/home/ornythorink/htdocs/linge/lib/jelix/core/jCoordinator.class.php : 211
+	3	jCoordinator->process()	/home/ornythorink/htdocs/linge/linge/www/index.php : 19
+
+

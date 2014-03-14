@@ -10,3 +10,5 @@ linge.access=2
 
 
 batch.access=2
+
+bo.access=2

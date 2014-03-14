@@ -6,12 +6,12 @@ startModule=linge
 startAction="default:index"
 
 locale=fr_FR
-availableLocales=fr_FR,en_EN
+availableLocales="fr_FR,en_EN"
 charset=UTF-8
 
-imagecache=/home/ornythorink/htdocs/linge/linge
-domaine=http://localhost/linge/linge/www/
-wsurl=http://localhost/vroum/www/
+imagecache="/home/ornythorink/htdocs/linge/linge"
+domaine="http://localhost/linge/linge/www/"
+wsurl="http://localhost/vroum/www/"
 ;imagecache=/home/ornythorink/linge/linge/linge
 ;domaine=http://www.comparateur-lingerie.fr
 ;wsurl=http://ornythorink.alwaysdata.net/
@@ -27,7 +27,7 @@ theme=default
 
 pluginsPath="app:plugins/,lib:jelix-plugins/"
 
-modulesPath="lib:jelix-modules/,app:modules/"
+modulesPath="lib:jelix-admin-modules/,lib:jelix-modules/,app:modules/"
 
 ; default domain name to use with jfullurl for example.
 ; Let it empty to use $_SERVER['SERVER_NAME'] value instead.
@@ -53,9 +53,10 @@ jsoap.access=0
 
 linge.access=2
 batch.access=2
+bo.access=2
 [coordplugins]
 ;name = file_ini_name or 1
-autolocale = autolocale.coord.ini.php
+autolocale=autolocale.coord.ini.php
 
 [tplplugins]
 defaultJformsBuilder=html
@@ -122,6 +123,7 @@ simple_urlengine_https=
 index="@classic"
 
 
+admin="jacl2db_admin~*@classic, jauthdb_admin~*@classic, master_admin~*@classic, jpref_admin~*@classic"
 [basic_significant_urlengine_entrypoints]
 ; for each entry point, it indicates if the entry point name
 ; should be include in the url or not
@@ -129,6 +131,7 @@ index=on
 xmlrpc=on
 jsonrpc=on
 
+admin=1
 [jResponseHtml]
 ; list of active plugins for jResponseHtml
 ; remove the debugbar plugin on production server, and in this case don't forget
@@ -233,5 +236,8 @@ name=
 
 [datepickers]
 ;default = jelix/js/jforms/datepickers/default/init.js
+
+
+
 
 
