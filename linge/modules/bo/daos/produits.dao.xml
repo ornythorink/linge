@@ -37,20 +37,8 @@
         updatepattern="" insertpattern="" selectpattern=""/>-->
     </record>
     <factory>
-        <!--<method name="findByStage" type="select/selectfirst/delete/update/php">
-            <parameter name="" />
-            <values>
-                <value property="" value="" />
-            </values>
-            <conditions logic="and/or">
-                <eq property="" value="" />
-            </conditions>
-            <order>
-                <orderitem property="" way="asc/desc" />
-            </order>
-            <limit offset="" count=""/>
-            <body><![CDATA[
-            ]]></body>
-        </method>-->
+        <method name="findDistinctCategory" type="select"  distinct="true" >
+
+        </method>
     </factory>
 </dao>

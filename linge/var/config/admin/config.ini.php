@@ -25,7 +25,7 @@ jpref.access=2
 jpref_admin.access=2
 bo.access=2
 [simple_urlengine_entrypoints]
-admin="jacl2db~*@classic, jauth~*@classic, jacl2db_admin~*@classic, jauthdb_admin~*@classic, master_admin~*@classic, jpref_admin~*@classic"
+admin="jacl2db~*@classic, jauth~*@classic, jacl2db_admin~*@classic, jauthdb_admin~*@classic, master_admin~*@classic, jpref_admin~*@classic,bo~*@classic"
 
 [coordplugins]
 auth="admin/auth.coord.ini.php"

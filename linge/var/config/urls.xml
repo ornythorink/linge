@@ -40,7 +40,9 @@
 
      <url pathinfo="/login/" module="jauth" include="urls.xml" />
      <url pathinfo="/acl/" module="jacl2db_admin"  include="urls.xml"/>
-     <url pathinfo="/auth/" module="jauthdb_admin"  include="urls.xml"/>
+     <url pathinfo="/auth/" module="jauthdb_admin"  include="urls.xml"/>  
+     <url pathinfo="/category/" module="bo"  include="urls.xml"/>  
+    
  </classicentrypoint>
     
     

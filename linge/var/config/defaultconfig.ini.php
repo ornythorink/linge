@@ -135,7 +135,7 @@ admin=1
 ; list of active plugins for jResponseHtml
 ; remove the debugbar plugin on production server, and in this case don't forget
 ; to remove the memory logger from the logger section
-plugins=
+plugins=debugbar
 
 
 [logger]

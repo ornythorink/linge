@@ -44,3 +44,8 @@
 		"", 
 		"E' at line 25
 2014-03-06 20:51:52	127.0.0.1	default	fin import csv
+2014-03-16 14:32:18	127.0.0.1	default	start to process
+2014-03-16 14:32:20	127.0.0.1	default	DEBUG step 3 - nettoyage tree
+2014-03-16 14:32:20	127.0.0.1	default	DEBUG step 4 - create tree lahalle
+2014-03-16 14:36:57	127.0.0.1	default	DEBUG step 5 - get CSV lahalle
+2014-03-16 14:36:57	127.0.0.1	default	/home/ornythorink/linge/linge/var/uploads/effil/lahalle/lahalle.csv

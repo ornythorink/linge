@@ -96,7 +96,7 @@ class effilcsvCtrl extends jControllerCmdLine {
 
         foreach($rs as $r){
         $path = $this->paths . $r->rewrite .'/' . $r->rewrite . '.csv' ;         
-
+		$matching = (int) $r->matchingColumnCategory;
         jLog::log($path ,'default');
         $this->nettoieProduits($r->rewrite);
         
@@ -127,6 +127,7 @@ class effilcsvCtrl extends jControllerCmdLine {
 			mediumimage,
 			longimage,
 			qte,
+			categorie_marchand,
 			boutique,
 	    	source
 		)		
@@ -139,7 +140,8 @@ class effilcsvCtrl extends jControllerCmdLine {
 		"{$line[3]}",		
 		"{$line[3]}",
 		"{$line[3]}",
-		"{$line[7]}",		
+		"{$line[7]}",
+		"{$line[$matching]}",	
 		"{$r->rewrite}",
 		'EFF'		
 		) 
