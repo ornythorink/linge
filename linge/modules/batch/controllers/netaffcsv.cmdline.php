@@ -32,7 +32,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
     public function nettoieProduits($boutique){
         $rep = $this->getResponse(); 
         
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         
         $dbh = $cnx->prepare( "DELETE FROM produits  WHERE source = 'NET'  AND  boutique = '" .  $boutique ."'")  ;
         $dbh->execute();
@@ -46,7 +46,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
         $rep = $this->getResponse(); 
         
             if($this->isOver()){
-                 $cnx = jDb::getConnection();
+                 $cnx = jDb::getConnection('etl');
                 $rs = $cnx->query( "
                     UPDATE csv_config
                     SET flagbash = 'N' 
@@ -63,7 +63,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
     }
     
     public function isOver(){
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "
             SELECT * FROM csv_config
             
@@ -87,7 +87,7 @@ class netaffcsvCtrl extends jControllerCmdLine {
     public function importCSV(){          
         $rep = $this->getResponse(); 
         
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT * FROM csv_config 
             WHERE  url <> '' 
             AND source = 'netaff' 
@@ -210,7 +210,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-        $cnx = jDb::getConnection();
+        $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT rewrite FROM csv_config 
 				            WHERE  url <> '' 
 				            AND source = 'netaff' 
@@ -232,7 +232,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-        $cnx = jDb::getConnection();
+        $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT rewrite FROM csv_config WHERE source = 'netaff' ")  ;
         
           foreach( $rs as $record){
@@ -250,7 +250,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-        $cnx = jDb::getConnection();
+        $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT * FROM csv_config WHERE  url <> '' 
            AND source = 'netaff' 
            AND actif = 1 
