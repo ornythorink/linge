@@ -16,14 +16,21 @@ class sdcCtrl extends jControllerCmdLine {
 
     public function importCSV(){
 
-        $cnx = jDb::getConnection();
+        $cnx = jDb::getConnection('etl');
 
 
         $rep = $this->getResponse(); 
         
 
+        $nettoyage = $cnx->query( <<<TAG
+DELETE FROM produits WHERE source = 'SDC'
+TAG
+);
+        $cnx->exec($nettoyage);
+
+
         $categories = $cnx->query( <<<TAG
-SELECT tag FROM categories LIMIT 0,1
+SELECT tag FROM categories
 TAG
 );
 
@@ -133,6 +140,9 @@ EOD;
             }
 
         }
+
+        $validation = "UPDATE `produits` SET  `status` = 'Ok' WHERE source = 'SDC'";
+        $cnx2->exec($validation);
         
         return $rep;
 
