@@ -33,7 +33,7 @@ class zanoxcsvCtrl extends jControllerCmdLine {
     {
     	$rep = $this->getResponse();
     	
-    	$cnx = jDb::getConnection();
+    	$cnx = jDb::getConnection('etl');
     	
     	$dbh = $cnx->prepare( "DELETE FROM produits WHERE  source = 'ZNX' AND   boutique = '" .  $boutique ."'")  ;
     	$dbh->execute();
@@ -46,7 +46,7 @@ class zanoxcsvCtrl extends jControllerCmdLine {
         $rep = $this->getResponse(); 
         
             if($this->isOver()){
-                  $cnx = jDb::getConnection();
+                  $cnx = jDb::getConnection('etl');
                 $rs = $cnx->query( "
                     UPDATE csv_config
                     SET flagbash = 'N' 
@@ -61,7 +61,7 @@ class zanoxcsvCtrl extends jControllerCmdLine {
     }
     
     public function isOver(){
-          $cnx = jDb::getConnection();
+          $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "
             SELECT * FROM csv_config
             
@@ -85,7 +85,7 @@ class zanoxcsvCtrl extends jControllerCmdLine {
     public function importCSV(){          
         $rep = $this->getResponse(); 
         jLog::log('import csv' ,'default');
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT * FROM csv_config 
             WHERE  url <> '' 
             AND source = 'zanox' 
@@ -188,7 +188,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT rewrite FROM csv_config WHERE source = 'zanox'  ")  ;
         
           foreach( $rs as $record){
@@ -204,7 +204,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT rewrite FROM csv_config WHERE source = 'zanox' ")  ;
         
           foreach( $rs as $record){
@@ -221,7 +221,7 @@ EOD;
 
         $rep = $this->getResponse(); 
         
-         $cnx = jDb::getConnection();
+         $cnx = jDb::getConnection('etl');
         $rs = $cnx->query( "SELECT * FROM csv_config WHERE  url <> '' 
            AND source = 'zanox' 
            AND actif = 1 

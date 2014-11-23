@@ -13,8 +13,8 @@ driver=mysql
 ; For most of drivers:
 database=ornythorink_lingerie
 host=mysql.alwaysdata.com
-user=12932_ornythorin
-password=baruk146
+user=12932_vroum
+password=boheme146
 persistent=on
 usepdo=on
 
@@ -30,7 +30,29 @@ usepdo=on
 ; to use pdo
 ;usepdo=on
 
+[jdb:etl]
+; the driver name : mysql, pgsql, sqlite...
+driver=mysql
 
+; For most of drivers:
+database=ornythorink_lingerie_dev
+host=mysql.alwaysdata.com
+user=12932_vroum
+password=boheme146
+persistent=on
+usepdo=on
+
+; when you have charset issues, enable force_encoding so the connection will be
+; made with the charset indicated in jelix config
+;force_encoding = on
+
+; with the following parameter, you can specify a table prefix which will be
+; applied to DAOs automatically. For manual jDb requests, please use the method
+; jDbConnection::prefixTable().
+;table_prefix =
+
+; to use pdo
+;usepdo=on
 
 [jkvdb]
 ; default profile
