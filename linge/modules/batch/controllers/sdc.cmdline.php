@@ -22,12 +22,10 @@ class sdcCtrl extends jControllerCmdLine {
         $rep = $this->getResponse(); 
         
 
-        $nettoyage = $cnx->query( <<<TAG
+        $nettoyage = $cnx->exec( <<<TAG
 DELETE FROM produits WHERE source = 'SDC'
 TAG
 );
-        $cnx->exec($nettoyage);
-
 
         $categories = $cnx->query( <<<TAG
 SELECT tag FROM categories
